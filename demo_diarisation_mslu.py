@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from pyannote.database.util import load_rttm
 
-hf_token = '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'
+hf_token = 'hf_***'
 
 import torch
 print(torch.cuda.is_available())
